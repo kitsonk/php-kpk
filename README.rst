@@ -9,8 +9,8 @@ KPK PHP Libraries
 .. contents ::
    :depth: 2
 
-This is a set of useful PHP libraries I have made over the years which I find handy.  They are distributed under
-the`Modified BSD License <http://www.opensource.org/licenses/BSD-3-Clause>`_.
+This is a set of useful PHP libraries I have made over the years which I find handy.  They are distributed under the
+`Modified BSD License <http://www.opensource.org/licenses/BSD-3-Clause>`_.
 
 kpk/core/db
 -----------
